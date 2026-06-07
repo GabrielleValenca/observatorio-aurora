@@ -80,3 +80,5 @@ Durante o desenvolvimento do projeto foram consultados materiais de apoio para r
 ## Observação
 
 Ferramentas de Inteligência Artificial foram utilizadas apenas como apoio pontual para pesquisa, esclarecimento de dúvidas, revisão de código e consulta de exemplos. Todo o desenvolvimento, adaptação, testes, organização das páginas e integração dos componentes foram realizados pelos integrantes do projeto.
+
+Data de entrega: 07/06/2026
